@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Has del oriente</string>
+    <string name="email">Ingrese el email</string>
+    <string name="pasword">Igrese la contraseña</string>
+    <string name="boton">Ingresar</string>
+
+
+</resources>

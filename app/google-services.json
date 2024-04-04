@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "596367191395",
+    "project_id": "has-del-oriente",
+    "storage_bucket": "has-del-oriente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:596367191395:android:b2d7f4aebd9423f6b2b756",
+        "android_client_info": {
+          "package_name": "com.example.hasdeloriente"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0h-v9MYseuroZ7bbJwSua7llVBGGkvrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
